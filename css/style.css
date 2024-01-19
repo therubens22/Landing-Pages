@@ -213,7 +213,7 @@ section {
 .wrapeer {
     position: absolute;
     top: 150px;
-    right: 390px;
+    right: 10%;
     display: flex;
     justify-content: center;
     align-items: center;
